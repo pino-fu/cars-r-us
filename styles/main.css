@@ -1,0 +1,54 @@
+html {background-color: #12344bff }
+
+h1, h2 {
+    color: white;
+    text-shadow: 2px 2px black;
+}
+
+#orderPrice {
+    color: white;
+    text-shadow: 1px 1px black
+}
+
+
+.selectParent {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.selectBlock {
+    border-radius: 20px; 
+    padding: 20px;
+    margin: 15px; 
+    background-color: #ff570a;
+    flex: 1;
+    border: 5px solid purple
+}
+
+#buttonParent {
+    display: flex;
+    justify-content: space-around;
+    margin: 50px; 
+}
+
+#clickToOrder {
+    padding: 17px 30px;
+    border-radius: 20px;
+    border: 3px solid rgb(205, 195, 50);
+    background-color: crimson;
+    color: rgb(36, 229, 36); 
+    text-shadow: 1px 1px black; 
+}
+
+.orderParent {
+
+}
+
+.ordersDisplay {
+border: 5px solid rgb(205, 195, 50);
+border-radius: 20px;
+margin: 5px 10px;
+text-shadow: 1px 1px black
+}
+
